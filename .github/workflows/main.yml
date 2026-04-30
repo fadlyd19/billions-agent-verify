@@ -10,7 +10,7 @@ on:
       agent_description:
         description: 'vasseuroy'
         required: true
-        default: 'vasseuroy' AI Agent'
+        default: 'vasseuroy AI Agent'
 
 jobs:
   verify:
